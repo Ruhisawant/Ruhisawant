@@ -1,4 +1,4 @@
-**`Digital Storyteller | Tech Crafter | Idea Builder`**
+### `Digital Storyteller | Tech Crafter | Idea Builder`
 
 Hello World! 👋 I’m a curious and creative developer who enjoys building fun, useful, and interactive digital experiences. I love turning ideas into reality through code and enjoy experimenting with new animations, styles, and programming languages. I'm always learning something new and thrive in environments that encourage growth, collaboration, and innovation.
 
