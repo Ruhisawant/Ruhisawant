@@ -44,3 +44,9 @@ Hello World! 👋 I’m a curious and creative developer who enjoys building fun
   <img src="https://streak-stats.demolab.com?user=Ruhisawant&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhisawant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhisawant/Ruhisawant/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruhisawant/Ruhisawant/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ruhisawant/Ruhisawant/output/github-snake.svg" />
+</picture>
